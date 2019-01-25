@@ -1,4 +1,4 @@
-/*subbmited by:Sushil Khadka*/
+/*submitted by:Sushil Khadka*/
 
 #include <iostream>
 #include <cstring>
